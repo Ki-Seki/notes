@@ -1,6 +1,6 @@
 title:      Python 编码  
 author:     小 K  
-summary:    是 7 月 15 日作的笔记，今日搬运过来。  
+summary:    Python 中的编码规则
 datetime:   2021-08-16 12:37  
 tags:       Python  
             编码  

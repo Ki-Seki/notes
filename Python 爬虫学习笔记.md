@@ -1,5 +1,5 @@
 title:      Python 爬虫学习笔记  
-summary:    在慕课网学习 Scrapy 时所作的笔记，后来不断发展内容更丰富，不仅限于 Scrapy 的知识  
+summary:    在慕课网学习 Scrapy 时所作的笔记，后来不断发展，内容更丰富，不仅限于 Scrapy 的知识  
 author:     小 K  
 datetime:   2021-08-17 16:44  
             2022-02-27 17:11  

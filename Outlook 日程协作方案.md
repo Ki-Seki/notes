@@ -1,6 +1,6 @@
-title:      Outlook 日程协作方案：基于华为手机与微软 Windows 电脑的原生邮件程序
+title:      Outlook 日程协作方案
 author:     小 K
-summary:    Outlook 日程在不同操作系统中的同步一直是一个很难配置的事情，本文简单总结我的经验。
+summary:    Outlook 日程在不同操作系统中的同步是一个很难配置的事情，本文简单总结基于华为手机与微软 Windows 电脑的原生邮件程序的日程同步解决方案。
 datetime:   2021-10-21 07:00
             2021-11-05 17:20
 tags:       Outlook
@@ -9,7 +9,7 @@ tags:       Outlook
 
 [TOC]
 
-# Outlook 日程协作方案：基于华为手机与微软 Windows 电脑的原生邮件程序
+# Outlook 日程协作方案
 
 我的环境如下：
 
